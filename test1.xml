@@ -199,7 +199,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>The CESM python post processing repository code integrates light-weight parallel python tools developed by the NCAR CISL ASAP group and diagnostics plotting packages developed by the CESM Working Groups into a common framework that can be used to post process CESM data.</gco:CharacterString>
+                <gco:CharacterString>Updated 15:38 - The CESM python post processing repository code integrates light-weight parallel python tools developed by the NCAR CISL ASAP group and diagnostics plotting packages developed by the CESM Working Groups into a common framework that can be used to post process CESM data.</gco:CharacterString>
             </gmd:abstract>
 
             <gmd:pointOfContact>
