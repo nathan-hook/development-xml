@@ -170,7 +170,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Updated 20220705 15:57 The CESM Workflow package creates a cylc suite from the CESM XML environment and creates the environment for running a CMIP simulation.</gco:CharacterString>
+                <gco:CharacterString>Updated 20220705 16:08 The CESM Workflow package creates a cylc suite from the CESM XML environment and creates the environment for running a CMIP simulation.</gco:CharacterString>
             </gmd:abstract>
 
             <gmd:pointOfContact>
